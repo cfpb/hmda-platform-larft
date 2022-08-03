@@ -26,4 +26,6 @@ The sheet holds pipe delimted formatted LAR and transmittal sheet data before it
 
 ## Known Issues
 
-The application has been tested on Microsoft Excel 2010 for Windows. Other versions are currently not supported.
+- The application has been tested on Microsoft Excel 2010 for Windows. Other versions are currently not supported.
+
+- When locking/unlocking the documents for editing , they could be saved without an option to select the locked content (i.e. hyperlinks). 
